@@ -22,7 +22,7 @@ Installation
 Clone the repository:
 
 text
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Anikate001/Sentiment_Analysis.git
 Create and activate Python virtual environment:
 
 text
